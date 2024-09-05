@@ -9,4 +9,5 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.9.2",
     "tfp-nightly>=0.25.0.dev20240902",
+    "tqdm>=4.66.5",
 ]
